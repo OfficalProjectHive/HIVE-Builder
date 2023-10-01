@@ -11,3 +11,4 @@ just run this
   cd HIVE-Builder
   sudo bash builder.sh
 ```
+# THIS WILL RECIVE A HUGE UPDATE SOON
